@@ -4,7 +4,7 @@ ft.sdc9787, insu
 # <setting info>
 react version == 
 
-python version == 
+python version == 3.12.1
 
-django version == 
+django version == 5.0.1
 
