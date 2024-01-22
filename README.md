@@ -15,4 +15,5 @@ cd blog/Scripts => activate
 # runserver
 location : React_Django/web 
 command : python manage.py runserver
+
 -> default : 127.0.0.1:8000
